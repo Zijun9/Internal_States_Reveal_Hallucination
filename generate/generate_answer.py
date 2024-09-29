@@ -11,7 +11,8 @@ csv.field_size_limit(sys.maxsize)
 cwd = os.getcwd()
 cwd = "/".join(cwd.split("/")[:-1])
 sys.path.append(cwd)
-from src.utils import init_model, get_batch_generate
+##from src.utils import init_model, get_batch_generate
+from utils import init_model, get_batch_generate
 from length import get_max_new_tokens
 import re
 import warnings
