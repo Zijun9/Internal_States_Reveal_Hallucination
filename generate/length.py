@@ -7,7 +7,7 @@ cwd = os.getcwd()
 cwd = "/".join(cwd.split("/")[:-1])
 sys.path.append(cwd)
 ##from src.utils import get_llama_tokenizer
-from utils import get_llama_tokenizer
+from utils import init_model
 import csv
 
 
