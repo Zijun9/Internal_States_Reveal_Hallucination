@@ -1,0 +1,33 @@
+# 忽略所有文件
+*
+# 不忽略目录
+!*/
+
+×*/
+×*
+.ipynb_checkpoints
+wandb/
+Untitled*
+checkpoint-*/
+
+!*.py
+!*.ipynb
+!*.txt
+!*.md
+!*.sh
+!.gitignore
+!*.cfg
+
+*vocab.txt
+*slurm*
+*ali*
+*114*
+README.md
+hallucinated_ids.txt
+ok_ids.txt
+log.txt
+predict_results.txt
+try*
+
+datasets/natural-instructions-2.8/processed
+datasets/natural-instructions-2.8/tasks

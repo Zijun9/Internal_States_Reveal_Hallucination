@@ -1,0 +1,62 @@
+Question Answering
+Overlap Extraction
+Program Execution
+Text to Code
+Data to Text
+Code to Text
+Translation
+Paraphrasing
+Explanation
+Title Generation
+Dialogue Generation
+Grammar Error Correction
+Number Conversion
+Summarization
+Sentence Compression
+Preposition Prediction
+############ NLU
+Question Understanding
+Answerability Classification
+Text Quality Evaluation
+Toxic Language Detection
+Coreference Resolution
+Answer Verification
+Coherence Classification
+Mathematics
+Spelling Error Detection
+Grammar Error Detection
+Ethics Classification
+Spam Classification
+Linguistic Probing
+Text Categorization
+Commonsense Classification
+Word Semantics
+Text Matching
+Information Extraction
+Textual Entailment
+Sentiment Analysis
+Sentence Composition
+Sentence Ordering
+Paper Review
+Language Identification
+Stereotype Detection
+Gender Classification
+Section Classification
+Dialogue Act Recognition
+Irony Detection
+Cause Effect Classification
+Named Entity Recognition
+Speaker Identification
+Speaker Relation Classification
+Dialogue State Tracking
+Punctuation Error Detection
+Word Relation Classification
+Fact Verification
+Discourse Relation Classification
+Entity Relation Classification
+Discourse Connective Identification
+Stance Detection
+
+# 'Poem Generation', 'Story Composition', 'Wrong Candidate Generation', 'Sentence Perturbation', 'Text Completion', 'Misc.', 'Word Analogy', 'Intent Identification', 'Fill in The Blank', 'Question Rewriting', 'Question Decomposition'
+# 'Keyword Tagging', 'Pos Tagging', 'Negotiation Strategy Detection', 'Text Simplification'
+# Sentence Expansion, Entity Generation, 'Question Generation, Style Transfer
